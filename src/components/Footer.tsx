@@ -6,7 +6,7 @@ const Footer = () => {
           {/* Logo / Brand */}
           <div>
             <span className="text-foreground font-serif text-xl tracking-wide">
-              Meridian
+              Nexevate
             </span>
           </div>
 
@@ -35,7 +35,7 @@ const Footer = () => {
           {/* Copyright */}
           <div>
             <p className="text-foreground-muted/60 text-xs font-sans">
-              © 2024 Meridian. All rights reserved.
+              © 2026 Nexevate. All rights reserved.
             </p>
           </div>
         </div>
